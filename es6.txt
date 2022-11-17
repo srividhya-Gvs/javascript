@@ -1,0 +1,56 @@
+es6 concepts
+1. const
+2.let
+3.map
+4.filter
+5.spread operator
+6.setTimeout
+7.setInterval
+8.call back function or arrow
+9.async await
+10.promises
+11.fetch
+
+
+const: we can store a value using const with some rules .
+rule1:we can't chane the data of a variable once we assigned. 
+rule2:we can't change the value also.
+rule3:we cna't create a variable without assigning a value.
+
+let:In let we can't create a same variable again.   
+
+map: map is also a looping action which looks like for each and we are going to create a duplicate for the array data.
+
+
+
+
+API
+ Application Programming Interace
+ https://www.google.com/search?q=
+ here/search?q=is the api
+
+JSON
+JavaScript Object Notation
+
+{
+   "name":"srividhya"
+   "age":20,
+   "gender":"female"
+}
+
+
+AJAX Operations
+
+get: retrieve  the data from server
+post:creating data into server
+put:updating the existing data
+delete:deleting the existing data
+
+patch:combination of put and post
+
+CRUD 
+
+fetch 
+which is going to make a server action by passing API as a parameter. It is going give us a response back which we are going to handle using then method and we need to convert the response into JSON formatby using JSON method.
+Note:
+By default fetch will perform get operation	
